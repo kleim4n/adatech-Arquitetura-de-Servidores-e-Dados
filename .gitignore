@@ -1,0 +1,42 @@
+# Sistema operacional
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# IDEs e editores
+.idea/
+.vscode/
+*.iml
+*.swp
+*.swo
+
+# Logs e temporarios
+*.log
+*.tmp
+*.temp
+logs/
+tmp/
+
+# Variaveis e segredos locais
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.crt
+secrets/
+
+# Jenkins local
+jenkins_home/
+.jenkins/
+
+# Artefatos / pacotes
+*.zip
+*.tar
+*.tar.gz
+build/
+dist/
+coverage/
+
+# Arquivos locais de execucao
+*.pid

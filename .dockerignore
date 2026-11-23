@@ -1,0 +1,10 @@
+.git
+.gitignore
+.idea
+.vscode
+*.log
+*.zip
+README.md
+Projeto2.md
+docker-compose.jenkins.yml
+jenkins
